@@ -1,6 +1,6 @@
 # Specifying an R environment with a runtime.txt file
 
-
+This repo is a test for combining `R` and `RISE` together to realize interactive slides with R kernel. 
 
 my test repo: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/LittleBeannie/interactive-slides_R1/master)
 
