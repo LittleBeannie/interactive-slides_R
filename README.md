@@ -1,4 +1,4 @@
-# Specifying an R environment with a runtime.txt file
+
 
 This repo is a test for combining `R` and `RISE` together to realize interactive slides with R kernel. 
 
